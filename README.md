@@ -1,0 +1,1 @@
+This project is a Tic Tac Toe game built using HTML, CSS, and JavaScript. It features a 3x3 grid for gameplay, "New Game" and "Reset" buttons to control the game flow, and displays a winner declaration message upon game completion.
